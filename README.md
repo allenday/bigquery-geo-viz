@@ -14,6 +14,10 @@ Web tool and developer example for visualization of Google BigQuery geospatial d
 ### Quickstart
 
 ```shell
+# Install dependencies
+sudo apt-get install npm
+npm install
+
 # Start a dev server at http://localhost:4200/.
 npm run dev
 
